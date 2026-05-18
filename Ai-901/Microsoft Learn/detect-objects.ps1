@@ -1,5 +1,5 @@
-$predictionUrl="https://vision-ite.cognitiveservices.azure.com/"
-$predictionKey = "AX6x1k0sLrmu3bEzvF9PEiHMF7gFVV9eCuIAFj9QSnyN2m6VnihDJQQJ99CEACYeBjFXJ3w3AAAFACOGTxp9"
+$predictionUrl="..."
+$predictionKey = "..."
 
 
 # Code to call Custom Vision service for object detection
