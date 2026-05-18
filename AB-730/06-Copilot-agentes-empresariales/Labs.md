@@ -1,0 +1,10 @@
+LAB-COPILOT-365-0100-Informe-Estado-Semanal
+LAB-COPILOT-365-0101-Analisis-Correos-Outlook
+LAB-COPILOT-365-0102-Generacion-Borrador-Word
+LAB-COPILOT-365-0103-Baraja-Propuestas-Cliente
+LAB-COPILOT-365-0104-Resumir-Preferencias-Cliente
+LAB-COPILOT-365-0105-Creacion-PowerPoint-Con-Copilot
+LAB-COPILOT-365-0106-Resumen-Ejecutivo
+LAB-COPILOT-365-0107-Recopilar-Informacion-Interna
+LAB-COPILOT-365-0108-Investigacion-Externa-Con-Copilot
+LAB-COPILOT-365-0109-Borrador-Resumen-Word

@@ -1,0 +1,65 @@
+- **Microsoft 365 Personal**
+  - Apps de Office (Word, Excel, PowerPoint, Outlook, OneNote)
+  - 1 TB de OneDrive
+  - 1 usuario, hasta 5 dispositivos
+  - Copilot integrado en las apps
+  - Microsoft Defender
+- **Microsoft 365 Familia**
+  - Todo lo de Personal
+  - Hasta 6 usuarios
+  - 1 TB de OneDrive por usuario
+  - Compartible con familia
+- **Microsoft 365 Apps for Business**
+  - Apps de escritorio (Word, Excel, PowerPoint, Outlook, Access, Publisher)
+  - 1 TB OneDrive por usuario
+  - Sin Teams ni Exchange
+- **Microsoft 365 Empresa Básico**
+  - Apps web y móvil solamente (sin escritorio)
+  - Exchange Online (50 GB por buzón)
+  - Teams, SharePoint, OneDrive
+  - Copilot disponible como complemento
+- **Microsoft 365 Empresa Estándar**
+  - Apps de escritorio + web + móvil
+  - Teams con grabación y transcripción
+  - Exchange Online, SharePoint, OneDrive
+  - Microsoft Bookings
+  - Copilot disponible como complemento
+- **Microsoft 365 Empresa Premium**
+  - Todo lo de Estándar
+  - Microsoft Defender para Empresas
+  - Intune (gestión de dispositivos)
+  - Azure AD Premium P1
+  - Copilot disponible como complemento
+- **Microsoft 365 F1**
+  - Apps web y móvil básicas
+  - Teams funcionalidad limitada
+  - OneDrive 2 GB
+- **Microsoft 365 F3**
+  - Apps web y móvil completas
+  - Teams completo
+  - Exchange Online
+- **Microsoft 365 E3**
+  - Apps de escritorio completas
+  - Exchange Online, Teams, SharePoint
+  - Intune básico
+  - Copilot como complemento
+- **Microsoft 365 E5**
+  - Todo lo de E3
+  - Microsoft Defender XDR
+  - Purview (compliance avanzado)
+  - Power BI Pro
+  - Intune Plan 2
+- **Microsoft 365 A1**
+  - Gratuito para alumnos y docentes
+  - Apps web únicamente
+- **Microsoft 365 A3**
+  - Apps de escritorio
+  - Seguridad básica
+- **Microsoft 365 A5**
+  - Todo lo de A3
+  - Seguridad avanzada y analítica
+- **Microsoft 365 Copilot** *(complemento add-on)*
+  - Copilot en Word, Excel, PowerPoint, Outlook, OneNote
+  - Copilot Chat con modo agente
+  - Pages (canvas colaborativo)
+  - Compatible con Business Standard, Business Premium, E3, E5
