@@ -1,5 +1,5 @@
-$key="Blsb0As6hzXHHSDjf5VGCnuxsWNfPWGMDMYWdxBVtNMVskhKb3ZRJQQJ99AJACYeBjFXJ3w3AAAKACOG5u1h"
-$endpoint="https://face4trainner.cognitiveservices.azure.com"
+$key="..."
+$endpoint="..."
 
 
 
